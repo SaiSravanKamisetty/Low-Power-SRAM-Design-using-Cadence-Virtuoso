@@ -57,41 +57,41 @@ Hold → Write '0' → Hold → Read → Hold → Read → Hold → Write '1' �
 
 ### 🔹 Schematics
 - GPDK90 Schematic  
-  ![GPDK90 schematic](GPDK90%20schematic.png)  
+  ![GPDK90 schematic](images/GPDK90%20schematic.png)  
 
 - Testing Schematic for GPDK90  
-  ![Testing Schematic for GPDK90](Testing%20Schematic%20for%20GPDK90.png)  
+  ![Testing Schematic for GPDK90](images/Testing%20Schematic%20for%20GPDK90.png)  
 
 - GPDK45 Schematic  
-  ![GPDK45 schematic](GPDK45%20schematic.png)  
+  ![GPDK45 schematic](images/GPDK45%20schematic.png)  
 
 ---
 
 ### 🔹 Simulation Results (GPDK90)
 - Case 1  
-  ![GPDK90 Case 1](GPDK90%20case%201.png)  
-  ![GPDK90 Case 1 with values](GPDK90%20case%201%20with%20values.png)  
+  ![GPDK90 Case 1](images/GPDK90%20case%201.png)  
+  ![GPDK90 Case 1 with values](images/GPDK90%20case%201%20with%20values.png)  
 
 - Case 2  
-  ![GPDK90 Case 2](GPDK90%20case%202.png)  
-  ![GPDK90 Case 2 with values](GPDK90%20case%202%20with%20values.png)  
+  ![GPDK90 Case 2](images/GPDK90%20case%202.png)  
+  ![GPDK90 Case 2 with values](images/GPDK90%20case%202%20with%20values.png)  
 
 - Overall Values  
-  ![GPDK90 values](GPDK90%20values.png)  
+  ![GPDK90 values](images/GPDK90%20values.png)  
 
 ---
 
 ### 🔹 Simulation Results (GPDK45)
 - Case 1  
-  ![GPDK45 Case 1](GPDK45%20case%201.png)  
-  ![GPDK45 Case 1 with values](GPDK45%20case%201%20with%20values.png)  
+  ![GPDK45 Case 1](images/GPDK45%20case%201.png)  
+  ![GPDK45 Case 1 with values](images/GPDK45%20case%201%20with%20values.png)  
 
 - Case 2  
   ![GPDK45 Case 2](images/GPDK45%20case%202.png)  
-  ![GPDK45 Case 2 with values](GPDK45%20case%202%20with%20values.png)  
+  ![GPDK45 Case 2 with values](images/GPDK45%20case%202%20with%20values.png)  
 
 - Overall Values  
-  ![GPDK45 values](GPDK45%20values.png)  
+  ![GPDK45 values](images/GPDK45%20values.png)  
 
 ---
 
