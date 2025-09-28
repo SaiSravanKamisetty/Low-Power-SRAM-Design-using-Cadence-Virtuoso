@@ -87,7 +87,7 @@ Hold → Write '0' → Hold → Read → Hold → Read → Hold → Write '1' �
   ![GPDK45 Case 1 with values](GPDK45%20case%201%20with%20values.png)  
 
 - Case 2  
-  ![GPDK45 Case 2](GPDK45%20case%202.png)  
+  ![GPDK45 Case 2](images/GPDK45%20case%202.png)  
   ![GPDK45 Case 2 with values](GPDK45%20case%202%20with%20values.png)  
 
 - Overall Values  
